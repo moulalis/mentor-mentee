@@ -12,7 +12,7 @@ import java.util.List;
 import java.util.Map;
 
 public class MentorMenteeMatcher {
-    private static final String ACCESS_TOKEN = "J5rqrMyzhgHWdCx4HqFNDr6QTaXqYLrfs5iOZ";
+    private static final String ACCESS_TOKEN = "";
     private static final long MENTORS_SHEET_ID = 4108344956505988L; // Replace with your sheet ID
     private static final long MENTEES_SHEET_ID = 6954244242362244L; // Replace with your sheet ID
     private static final long RESULTS_SHEET_ID = 6808858257215364L; // Replace with your sheet ID

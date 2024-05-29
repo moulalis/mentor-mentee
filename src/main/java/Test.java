@@ -11,7 +11,7 @@ import java.util.Set;
 
 public class Test {
     // Replace with your access token
-    private static final String ACCESS_TOKEN = "J5rqrMyzhgHWdCx4HqFNDr6QTaXqYLrfs5iOZ";
+    private static final String ACCESS_TOKEN = "";
     private static final long SHEET_ID = 4108344956505988L; // Replace with your sheet ID
 
     // Column IDs
